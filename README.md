@@ -13,7 +13,7 @@ I’m currently pursuing a degree in **Computer Science Engineering** with a spe
 
 ---
 
-## 💻 **Technical Expertise**
+## 💻 **Technical Interests**
 
 ### 1. **Artificial Intelligence and Machine Learning (AIML)**
 - Proficient in supervised learning techniques and machine learning workflows.
