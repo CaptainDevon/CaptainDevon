@@ -1,5 +1,60 @@
 # 💫 About Me:
- I am a B. Tech (Computer Science + Artificial Intelligence and Machine Learning) at SRM Institute of Science and Technology and I am<br> very eager to learn, grow, and make a meaningful impact within a dynamic and forward-thinking organization.<br> I have an extensive hands on in C++, Web Development Technologies - ReactJS, JavaScript/HTML/CSS NodeJS, Python. Detailed<br> knowledge on OOPs and Data Structures & Algorithms, OS Concepts and DBMS. I am a keen learner - Did certifications in Machine<br> Learning and workflows, Data Science, Various Courses on JavaScript and NodeJS Fundamentals, SOLID Development Principles for<br> project design.<br>
+### 👋 Hello, I’m **Divyansh Sinha** from Hyderabad!
+
+I’m currently pursuing a degree in **Computer Science Engineering** with a specialization in **Artificial Intelligence and Machine Learning (AIML)**. My passion for AIML and software development has driven me to acquire a diverse skill set, enabling me to contribute meaningfully to real-world projects.
+
+---
+
+## 🔍 **Who Am I?**
+
+- A **5⭐ coder on HackerRank** in **Python**, **C++**, **Java**, and **C**.
+- Passionate about **Machine Learning**, **Software Engineering**, and **Full-Stack Web Development**.
+- Actively honing problem-solving skills on platforms like **LeetCode**, **Codeforces**, **GeeksforGeeks**, and **Coding Ninjas**.
+
+---
+
+## 💻 **Technical Expertise**
+
+### 1. **Artificial Intelligence and Machine Learning (AIML)**
+- Proficient in supervised learning techniques and machine learning workflows.
+- Hands-on experience with libraries like **scikit-learn**, **TensorFlow**, and **Keras**.
+- **Projects:**
+  - 🟢 **Cab Fare Prediction Model:** Predicted cab fares using regression techniques.
+  - 🟢 **Diabetes Predictor:** Applied supervised learning to analyze datasets and make accurate predictions.
+- Strong understanding of:
+  - Data preprocessing
+  - Model tuning
+  - Performance evaluation
+- **Certifications:** 
+  - Courses from **Google Developers** and **Pluralsight** enriched my understanding of AIML.
+
+---
+
+### 2. **Software Development**
+- Extensive experience in **C++** and **Java**:
+  - Developed a **Flight Reservation System** in C++, leveraging:
+    - Object-Oriented Programming (OOP)
+    - Data Structures and Algorithms (DSA)
+    - SOLID Principles
+    - Database Management Systems (DBMS)
+- Enthusiastic about **concurrent programming** for optimizing performance in multi-threaded applications.
+- Skilled in solving complex coding challenges with efficiency.
+
+---
+
+### 3. **Full-Stack Web Development**
+- Proficient in front-end technologies: **HTML**, **CSS**, **JavaScript**, and frameworks like **React** and **Tailwind CSS**.
+- Back-end expertise in **Node.js** for building robust and scalable web applications.
+- **Projects:**
+  - 🌐 Developed dynamic and responsive websites focused on user experience and design aesthetics.
+- Completed multiple **Pluralsight** courses to deepen knowledge of best practices in front-end and back-end development.
+
+---
+
+## 📈 **Key Achievements**
+- Built projects that blend **machine learning** and **software development** to solve real-world problems.
+- Achieved a **5-star HackerRank rating** in **Python**, **C++**, **Java**, and **C**.
+- Developed a strong foundation in **concurrent programming** to tackle multi-threaded application challenges.
 
 
 ## 🌐 Socials:
