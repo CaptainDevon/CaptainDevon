@@ -9,7 +9,7 @@ I'm a passionate and driven **Computer Science Engineering student** specializin
 
 - 🎓 A passionate **Computer Science Engineering student** specializing in **Artificial Intelligence and Machine Learning (AIML)**.
 - 💻 A dedicated **Software Developer** with real-world project experience in both **REST API development** using **Express.js** and **Spring Boot**.
-- ⚙️ Strong foundation in **Object-Oriented Programming**, **Data Structures & Algorithms**, **Database Management Systems (DBMS)**, **SOLID Principles** and **ConcurrentProgramming**.
+- ⚙️ Strong foundation in **Object-Oriented Programming**, **Data Structures & Algorithms**, **Database Management Systems (DBMS)**, **SOLID Principles** and **Concurrent Programming**.
 - 🧠 Actively exploring complex **Machine Learning** concepts and their implementation using tools like **scikit-learn**, **TensorFlow**, and **Keras**.
 - 🌐 A creative **Full-Stack Web Developer** with a flair for building responsive and dynamic web apps using **React**, **Tailwind CSS**, and **Node.js**.
 - 🧑‍💻 A consistent problem-solver on coding platforms:
